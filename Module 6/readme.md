@@ -1,7 +1,7 @@
 # Analyzing the Customer Segmentation Dashboard 
 
 
-Inferences:
+# Inferences:
 
 # Overall Dashboard
 
