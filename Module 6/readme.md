@@ -14,7 +14,7 @@
 
 # Filter = England
 
-![](![](https://github.com/animeshKansal/Tableau/blob/master/Module%206/Images/England.png)
+![](https://github.com/animeshKansal/Tableau/blob/master/Module%206/Images/England.png)
 
 1.	In UK, Distribution of age is no longer rightly skewed, means Customers in later age group are not in England
 2.	White collar job 49%, blue collar 26% and others 24%
@@ -22,7 +22,7 @@
 
 # Filter = Wales
 
-![](![](https://github.com/animeshKansal/Tableau/blob/master/Module%206/Images/Wales.png)
+![](https://github.com/animeshKansal/Tableau/blob/master/Module%206/Images/Wales.png)
 
 1.	In Wales, Distribution by balance is not like a decaying curve as showed by overall data
 2.	For wales Firstly, the class 15k and 30 K grows and then falls down. In wales, Abnormally large amount of 15 k -45k balance people
@@ -46,7 +46,7 @@ As we see,
 
 # Filter = Northeren Ireland
 
-![](![](https://github.com/animeshKansal/Tableau/blob/master/Module%206/Images/Northeren%20Island.png)
+![](https://github.com/animeshKansal/Tableau/blob/master/Module%206/Images/Northern%20Ireland.png)
 
 1.	In Northern Island, Gender ratio, Males 26% and Female 74%. Most people are young in there early 30s or late 20s as opposed to normal data.
 
