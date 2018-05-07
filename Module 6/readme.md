@@ -15,4 +15,4 @@ Inferences:
 10.	In Wales, Distribution by balance is not like a decaying curve and 
 
 
-![](https://github.com/animeshKansal/Tableau/blob/master/Module%206/image.png)
+![](https://github.com/animeshKansal/Tableau/blob/master/Module%206/Images/image.png)
