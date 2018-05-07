@@ -1,12 +1,21 @@
-Analyzing the Customer Segmentation Dashboard *
+# Analyzing the Customer Segmentation Dashboard 
 
 
 Inferences:
+
+# Overall Dashboard
+
+![](https://github.com/animeshKansal/Tableau/blob/master/Module%206/Images/No%20Filter.png)
 
 1.	Most customers are in England followed by Scotland wales and Northern Island
 2.	Distribution of balance in an account is rightly skewed
 3.	Distribution of Age shows, 40% customer is 30s
 4.	Overall Gender Breakdown 54% M – 46% F 
+
+# Filter = England
+
+![](![](https://github.com/animeshKansal/Tableau/blob/master/Module%206/Images/England.png)
+
 5.	White collar job 49%, blue collar 26% and others 24%
 6.	In UK, Distribution of age is no longer rightly skewed, means Customers in later age group are not in England
 7.	70% white collar job in UK, Advertisements should be according to these people
@@ -15,4 +24,3 @@ Inferences:
 10.	In Wales, Distribution by balance is not like a decaying curve and 
 
 
-![](https://github.com/animeshKansal/Tableau/blob/master/Module%206/Images/image.png)
