@@ -1,5 +1,7 @@
 # Module 2 
 
+BARCHART IN TABLEAU
+
 
 Annual Bonus Winners for each region 
 
